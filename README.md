@@ -1,13 +1,13 @@
-# Hi, I'm Mark Frizas 
+# Hi, I'm Mark Frizas 👋
 
-**Full-stack developer building education platforms & real-time web apps.**
+**Full-stack developer building real-time apps, dashboards, and AI-powered tools.**
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://markfrizas.vercel.app)
 [![GitHub](https://img.shields.io/badge/-GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mark-12-fr)
 
 ### 🎯 About
 
-I build practical web applications focused on **school management** and **real-time communication** — from student information systems with AI assistants to offline-capable AI tools. My projects ship end-to-end: dashboards, live data, auth, and deployment on Vercel.
+I build practical web applications across **full-stack development** and **real-time communication** — from dashboards, admin panels, and chat platforms to PWAs and offline-capable AI tools. My projects ship end-to-end: auth, live data, clean UIs, and deployment on Vercel.
 
 ### 🛠️ Tech Stack
 
