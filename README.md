@@ -1,6 +1,6 @@
 # Hi, I'm Mark Frizas 👋
 
-**Full-stack developer building real-time apps, dashboards, and AI-powered tools.**
+**Full-stack developer**
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://markfrizas.vercel.app)
 [![GitHub](https://img.shields.io/badge/-GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mark-12-fr)
