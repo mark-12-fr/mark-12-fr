@@ -30,7 +30,7 @@ I build practical web applications across **full-stack development** and **real-
 |---|---|---|---|
 | 🎓 | [**teacher-panel**](https://github.com/mark-12-fr/teacher-panel) · [live](https://teacher-panel-phi.vercel.app/) | Student management system for schools — attendance tracking and performance analytics | TypeScript |
 | 💬 | [**pulse-messenger**](https://github.com/mark-12-fr/pulse-messenger) · [live](https://codex-lilac-ten.vercel.app) | Real-time chat — friends, media sharing, presence, typing, read receipts | Flask, Socket.IO, Supabase |
-| 📱 | [**AcadTrack Facilitator Dashboard**](https://github.com/mark-12-fr/faci-panel) · [live](https://faci-panel.vercel.app) | Mobile-first companion portal for academic management, presented at Innovex 2026 | HTML, JavaScript |
+| 📱 | [**AcadTrack Facilitator Dashboard**](https://github.com/mark-12-fr/faci-panel) · [live](https://faci-panel.vercel.app) | Mobile-first companion portal for academic management, presented at Innovex 2026 | TypeScript, JavaScript |
 | 🤖 | [**360AI**](https://github.com/mark-12-fr/360AI) · [live](https://ai360-tau.vercel.app) | On-device AI — no API key, no server, works fully offline | JavaScript, Vite |
 | 📋 | [**Attendance-app**](https://github.com/mark-12-fr/Attendance-app) | Class attendance monitor connected to the Edubio system | TypeScript |
 | 🏫 | [**Edubio-Web**](https://github.com/mark-12-fr/Edubio-Web) | Admin panel — enroll new students, register new teachers | HTML |
