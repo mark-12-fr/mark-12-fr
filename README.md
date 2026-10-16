@@ -1,4 +1,4 @@
-# Hi, I'm Mark Frizas 👋
+# Hi, I'm Mark Frizas 
 
 **Full-stack developer building education platforms & real-time web apps.**
 
