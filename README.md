@@ -1,6 +1,6 @@
 # Hi, I'm Mark Frizas 👋
 
-**Full-stack developer**
+**Full-stack developer building real-time apps, dashboards, and AI-powered tools.**
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://markfrizas.vercel.app)
 [![GitHub](https://img.shields.io/badge/-GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mark-12-fr)
@@ -18,6 +18,7 @@ I build practical web applications across **full-stack development** and **real-
 ![](https://img.shields.io/badge/EJS-B4BFE1?style=flat-square)
 ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
